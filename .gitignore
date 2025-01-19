@@ -5,6 +5,7 @@ HELP.md
 *.drawio
 *.log
 *.jar
+database/
 
 ### STS ###
 .apt_generated
